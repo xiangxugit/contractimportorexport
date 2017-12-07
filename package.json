@@ -1,0 +1,17 @@
+{
+  "name": "gsafety.ecms.mobileapp.contracts",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "SimpleMath",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "xiangxu",
+  "license": "ISC"
+}
